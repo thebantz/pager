@@ -1,0 +1,17 @@
+{
+  "name": "TurnerApp",
+  "displayName": "TurnerApp",
+  "expo": {
+    "name": "TurnerApp",
+    "slug": "TurnerApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
